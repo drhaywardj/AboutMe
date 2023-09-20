@@ -4,9 +4,9 @@ I have had a long run with Twitter, but in truth, I gave it up years ago.  I fou
 
 Since then, I have dipped my toes back in.  In Facebook, I had limited people that I interacted with already, and I further limited that interaction.  It wasn't perfect, especially in 2020 around the election, but it was better.  
 
-Twitter though, it was a cesspool.  So after looking at it for a da, I stayed away, and have not been back until Thanksgiving of 2022.  At that point, I was doing more work on internet presence, and I decided to backup my Twitter profile, because with everything that was going on over there, I didn't know if I would be able to after a while.  While doing that, I looked again.  It was even less usable then before.  
+Twitter though, it was a cesspool.  So after looking at it for a day, I stayed away, and have not been back until Thanksgiving of 2022.  At that point, I was doing more work on internet presence, and I decided to backup my Twitter profile, because with everything that was going on over there, I didn't know if I would be able to after a while.  While doing that, I looked again.  It was even less usable then before.  
 
-I had created a fosstodan.org account back in April, as I wanted to try out this new platform that was different.  Smaller.  Segmented, yet not.  Admittedly, after gettting on I couldn't igure it out quickly and said to myself "I don't need to get wrapped up in any social media again", and I left it unused.  Now that I was seeing Twitter implode, I thought it might be time to look at fosstodon again.  This time, I didn't see what had given me pause before.  
+I had created a fosstodan.org account back in April, as I wanted to try out this new platform that was different.  Smaller.  Segmented, yet not.  Admittedly, after gettting on I couldn't figure it out quickly and said to myself "I don't need to get wrapped up in any social media again", and I left it unused.  Now that I was seeing Twitter implode, I thought it might be time to look at fosstodon again.  This time, I didn't see what had given me pause before.  
 
 As of now, I am keeping the twitter account, but have decided that I don't think I will use it for posting any longer.  I reserve the right to change my mind, but most of what I see is not something I want to participate in.  So, for the mean time, if I post, it will be at fosstodon.
 
