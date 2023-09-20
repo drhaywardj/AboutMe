@@ -10,9 +10,7 @@ I had created a fosstodan.org account back in April, as I wanted to try out this
 
 As of now, I am keeping the twitter account, but have decided that I don't think I will use it for posting any longer.  I reserve the right to change my mind, but most of what I see is not something I want to participate in.  So, for the mean time, if I post, it will be at fosstodon.
 
-I plan on fleshing out this repo to keep stuff current,  and clean up this message, among other things.  
+I plan on fleshing out this repo to keep stuff current, and clean up this message, among other things.  
 
 
-@fosstodon.org/@drhaywardj 
-or another way
-https://fosstodon.org/@drhaywardj
+@drhaywardj@fosstodon.org
